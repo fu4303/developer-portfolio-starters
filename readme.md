@@ -18,6 +18,9 @@
 
 ### 11ty
 
+- [Minimal 11ty Tailwind Starter](https://clever-newton-cbb08a.netlify.app) - A very minimal eleventy starter using Tailwind CSS for styling.  It features a smart navigation component that sets active states automatically by [Tom Reinert](https://github.com/tomreinert).  Github [(repo)](https://github.com/tomreinert/minimal-11ty-tailwind-starter)
+
+
 - [eleventail](https://eleventail.netlify.app) - A running start for JAMstack projects with Eleventy, TailwindCSS and some Netlify goodies by [Phil Hawksworth](https://www.hawksworx.com).  Github [(repo)](https://github.com/philhawksworth/eleventail)
 
 
