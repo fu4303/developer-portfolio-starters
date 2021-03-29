@@ -29,6 +29,9 @@
 - [Gridsome Minimal Blog](https://gridsome-blog-telerik.netlify.app) is a very minimal blog starter using gridsome by [Gift Egwuenu](https://www.giftegwuenu.dev).    [(repo)](https://github.com/lauragift21/gridsome-minimal-blog)
   - Includes: Markdown support for blog articles, great color
 
+- [Gridsome Casper Starter](https://casper.jammeryhq.com) is a gridsome starter based on the Casper theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-casper-v3)
+  - Includes: Built with Tailwind CSS, Responsive, Blog, Author pages, Tags, Categories, Dynamic custom pages, Pagination
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
