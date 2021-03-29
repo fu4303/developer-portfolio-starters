@@ -6,6 +6,7 @@
 - [NextJs](#nextjs)
 - [GatsbyJs](#gatsby)
 - [Jekyll](#jekyll)
+- [Hugo](#hugo)
 - [Gridsome](#gridsome)
 - [Nuxt](#nuxt)
 
@@ -62,6 +63,14 @@
 ### Jekyll
 
 - [Jekyll Serif Theme](https://jekyll-serif.netlify.app) - Serif is a beautiful business theme for Jekyll by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+------------------
+[(Table of Contents)](#table-of-contents)
+
+
+### Hugo
+
+- [Hugo Serif Theme](https://hugo-serif.netlify.app) - Serif is a beautiful business theme for Hugo by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/hugo-serif-theme)
 
 ------------------
 [(Table of Contents)](#table-of-contents)
