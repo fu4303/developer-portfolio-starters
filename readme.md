@@ -28,17 +28,20 @@
 
 ### NextJs
 
+- [Next Tailwind Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app) - This is a Next.js, Tailwind CSS blogging starter template by [Timothy](https://www.timlrx.com).  Github [(repo)](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+
+
 - [Next Netlify Starter](https://next-starter.netlify.app) - is a one-click starter project for Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-starter)
-  - Includes: Next starter bootstraped with create-react-app, 2 styled components
+  
 
 - [Next Netlify Blog Starter](https://next-netlify-blog-starter.netlify.app) - A lightweight markdown blog starter with Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-blog-starter)
-  - Includes: Markdown support, styling, hero image
+  
 
 - [Next Advanced Starter](https://nextjs-advanced-starter.vercel.app) - An opinionated starter skeleton with advanced features for Next.js by [Alex](https://gogl.io).  Github  [(repo)](https://github.com/agcty/nextjs-advanced-starter)
-  - Includes: Tailwind CSS, ESLint, Prettier & absolute imports instantly
+ 
 
 - [devii](https://devii.dev) - is a developer blog starter for 2020 using Next.js + React + TypeScript + Markdown by [Colin McDonnell](https://colinhacks.com).   GitHub [(repo)](https://github.com/colinhacks/devii)
-  - Includes: Next.js, React, TypeScript, Markdown, syntax highlighting, SEO, RSS generation
+  
 
 
 ------------------
