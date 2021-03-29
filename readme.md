@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [11ty](#11ty)
+- [NextJs](#nextjs)
 - [Gridsome](#gridsome)
 - [Nuxt](#nuxt)
 
