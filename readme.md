@@ -24,6 +24,9 @@
 - [devii](https://devii.dev) - is a developer blog starter for 2020 using Next.js + React + TypeScript + Markdown by [Colin McDonnell](https://colinhacks.com).   GitHub [(repo)](https://github.com/colinhacks/devii)
   - Includes: Next.js, React, TypeScript, Markdown, syntax highlighting, SEO, RSS generation
 
+------------------
+[(Table of Contents)](#table-of-contents)
+
 
 ### Gridsome
 
