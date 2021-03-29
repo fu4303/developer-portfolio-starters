@@ -53,8 +53,13 @@
 
 ### Gatsby
 
+- [Gatsby Md Ts Personal Website](https://gatsby-markdown-typescript-personal-website.netlify.app) - is a personal website / blog using Gatsby, Md, Typescript, Styled Components, Tailwind CSS, Framer Motion & React Font Awesome by [SaimirKapaj](https://github.com/SaimirKapaj).  Github [(repo)](https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website)
+
+- [Gatsby Md Personal Website](https://gatsby-markdown-personal-website.netlify.app) - is a personal website / blog using Gatsby, Md, Styled Components, Tailwind CSS, Framer Motion & React Font Awesome by [SaimirKapaj](https://github.com/SaimirKapaj).  Github [(repo)](https://github.com/SaimirKapaj/gatsby-markdown-personal-website)
+
+
 - [Gatsby Starter Delog](https://delog-w3layouts.netlify.app) - is starter blog for designers and developer, built with Gatsby and Netlfiy CMS by [W3Layouts](https://github.com/W3Layouts).  GitHub [(repo)](https://github.com/W3Layouts/gatsby-starter-delog)
-  - Includes:  Built with GatsbyJS and Netlify CMS, Dark mode support, SEO friendly
+  
 
 - [Gatsby Serif Theme](https://gatsby-serif.netlify.app) - Serif is a beautiful small business theme for Gatsby by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/gatsby-serif-theme)
 
@@ -62,7 +67,7 @@
 
 
 - [Gatsby Typescript Tailwind](https://gatsby-typescript-tailwind.netlify.app) - is a gatsby starter using typescript and tailwindcss by [Florentin](https://ecklf.com).  Github [(repo)](https://github.com/impulse/gatsby-typescript-tailwind)
-  - Includes: Tailwindcss, Typescript, Gatsby
+
 
 ------------------
 [(Table of Contents)](#table-of-contents)
