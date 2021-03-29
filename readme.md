@@ -32,13 +32,16 @@
 - [Gridsome Casper Starter](https://casper.jammeryhq.com) is a gridsome starter based on the Casper theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-casper-v3)
   - Includes: Built with Tailwind CSS, Responsive, Blog, Author pages, Tags, Categories, Dynamic custom pages, Pagination
 
+- [Gridsome Skeleventy Starter](https://skeleventy.jammeryhq.com) is a gridsome starter based on the Skeleventy theme for 11ty by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-skeleventy)
+  - Includes: Built with Tailwind CSS, Responsive, Pagination
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
 ### Nuxt
 
 - [Nuxt Portfolio Starter](https://nuxt-portfolio-starter.netlify.app) - is simple portfolio starter theme for Nuxt.js static sites by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/nuxt-portfolio-starter)
-  - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
+  - Includes: Tailwindcss, pagination, scroll, and theme switcher with dark mode
 
 ------------------
 [(Table of Contents)](#table-of-contents)
