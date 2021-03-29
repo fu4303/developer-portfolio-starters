@@ -17,7 +17,7 @@
   - Includes: CSS pipeline, JS bundling, HTML minification, SVG generation
 
 - [Twelvety](https://twelvety.netlify.app) - Twelvety is a pre-configured Eleventy starter project built to be fast by [Greg Ives](https://gregives.co.uk).  Github [(repo)](https://github.com/gregives/Twelvety)
-  - Includes: Component architecture, CSS pipeline using Sass, PostCSS and CleanCSS, JS pipeline using Browserify, Babel and Uglify
+  - Includes: Component architecture, CSS pipeline using Sass, PostCSS and CleanCSS, JS pipeline Browserify, Babel and Uglify
 
 
 ------------------
