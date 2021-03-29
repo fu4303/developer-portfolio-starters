@@ -20,6 +20,9 @@
 
 ### Gridsome
 
+- [Gridsome and Markdown Starter Kit](https://gridsome-and-markdown-starter-kit.netlify.app) - is a great gridsome starter kit by [Paul Ozyzniewski](https://www.paulthedeveloper.com). [(repo)](https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit)
+  - Includes: Fluid typography, great page transitions, background images, global metadata, svg components
+
 - [Gridsome Portfolio Starter](https://gridsome-portfolio-starter.netlify.app) - is simple portfolio starter theme for Gridsome by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/gridsome-portfolio-starter)
   - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
 
