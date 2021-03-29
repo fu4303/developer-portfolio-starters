@@ -19,6 +19,12 @@
 [(Table of Contents)](#table-of-contents)
 
 
+### NextJs
+
+- [devii](https://devii.dev) - is a developer blog starter for 2020 using Next.js + React + TypeScript + Markdown by [Colin McDonnell](https://colinhacks.com).   GitHub [(repo)](https://github.com/colinhacks/devii)
+  - Includes: Next.js, React, TypeScript, Markdown, syntax highlighting, SEO, RSS generation
+
+
 ### Gridsome
 
 - [Gridsome and Markdown Starter Kit](https://gridsome-and-markdown-starter-kit.netlify.app) - is a great gridsome starter kit by [Paul Ozyzniewski](https://www.paulthedeveloper.com).   [(repo)](https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit)
