@@ -38,6 +38,9 @@
 - [Gridsome Liebling Starter](https://liebling.jammeryhq.com) is a gridsome starter based on the liebling theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-liebling)
   - Includes: Built with Tailwind CSS, Responsive, Tags, Categories, Dynamic custom pages, Pagination, Search support, Dark mode
 
+- [Gridsome Portfolio Story](https://gridsome-portfolio-story.netlify.app) is a starter for Gridsome for designers and developers to tell stories about their work.    [(repo)](https://github.com/Edmund1645/gridsome-portfolio-story)
+  - Includes: Tag support, CSS Preprocessing with SCSS, Dark mode by default, Markdown for content, Netlify CMS preset with Netlify Identity for login
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
