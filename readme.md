@@ -26,8 +26,15 @@
 
 ### NextJs
 
+- [Next Netlify Starter](https://next-starter.netlify.app) - is a one-click starter project for Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-starter)
+  - Includes: Next starter bootstraped with create-react-app, 2 styled components
+
+- [Next Netlify Blog Starter](https://next-netlify-blog-starter.netlify.app) - A lightweight markdown blog starter built with Next.js 9.5+ and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-blog-starter)
+  - Includes: Markdown support, styling, hero image
+  
 - [devii](https://devii.dev) - is a developer blog starter for 2020 using Next.js + React + TypeScript + Markdown by [Colin McDonnell](https://colinhacks.com).   GitHub [(repo)](https://github.com/colinhacks/devii)
   - Includes: Next.js, React, TypeScript, Markdown, syntax highlighting, SEO, RSS generation
+
 
 ------------------
 [(Table of Contents)](#table-of-contents)
