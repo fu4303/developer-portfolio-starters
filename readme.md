@@ -29,6 +29,8 @@
 
 ### NextJs
 
+- [Personal Website Next Chakra](https://github.com/bjcarlson42/personal-website-nextjs-chakra) - This is a great portfolio starter using NextJs and Chakra with dark mode by [Benjamin Carlson](https://benjamincarlson.io).  Github [(repo)](https://github.com/bjcarlson42/personal-website-nextjs-chakra)
+
 - [Next Tailwind Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app) - This is a Next.js, Tailwind CSS blogging starter template by [Timothy](https://www.timlrx.com).  Github [(repo)](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
 
