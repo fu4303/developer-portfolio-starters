@@ -5,6 +5,7 @@
 - [11ty](#11ty)
 - [NextJs](#nextjs)
 - [GatsbyJs](#gatsby)
+- [Jekyll](#jekyll)
 - [Gridsome](#gridsome)
 - [Nuxt](#nuxt)
 
@@ -48,13 +49,19 @@
 - [Gatsby Starter Delog](https://delog-w3layouts.netlify.app) - is starter blog for designers and developer, built with Gatsby and Netlfiy CMS by [W3Layouts](https://github.com/W3Layouts).  GitHub [(repo)](https://github.com/W3Layouts/gatsby-starter-delog)
   - Includes:  Built with GatsbyJS and Netlify CMS, Dark mode support, SEO friendly
 
-- [Gatsby Bus. Serif Theme](https://gatsby-serif.netlify.app) - Serif is a beautiful small business theme for Gatsby by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/gatsby-serif-theme)
+- [Gatsby Serif Theme](https://gatsby-serif.netlify.app) - Serif is a beautiful small business theme for Gatsby by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/gatsby-serif-theme)
 
 
 - [Gatsby Typescript Tailwind](https://gatsby-typescript-tailwind.netlify.app) - is a gatsby starter using typescript and tailwindcss by [Florentin](https://ecklf.com).  Github [(repo)](https://github.com/impulse/gatsby-typescript-tailwind)
   - Includes: Tailwindcss, Typescript, Gatsby
 
+------------------
+[(Table of Contents)](#table-of-contents)
 
+
+### Jekyll
+
+- [Jekyll Serif Theme](https://jekyll-serif.netlify.app) - Serif is a beautiful business theme for Jekyll by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
 ------------------
 [(Table of Contents)](#table-of-contents)
