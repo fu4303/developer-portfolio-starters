@@ -52,6 +52,8 @@
 
 - [Gatsby Serif Theme](https://gatsby-serif.netlify.app) - Serif is a beautiful small business theme for Gatsby by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/gatsby-serif-theme)
 
+- [Gatsby Tailwind Serif](https://gatsby-tailwind-serif.netlify.app) - A Gatsby theme based on gatsby-serif-theme, with Tailwind CSS by [windedge](https://github.com/windedge).  Github [(repo)](https://github.com/windedge/gatsby-tailwind-serif)
+
 
 - [Gatsby Typescript Tailwind](https://gatsby-typescript-tailwind.netlify.app) - is a gatsby starter using typescript and tailwindcss by [Florentin](https://ecklf.com).  Github [(repo)](https://github.com/impulse/gatsby-typescript-tailwind)
   - Includes: Tailwindcss, Typescript, Gatsby
