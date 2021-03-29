@@ -41,6 +41,9 @@
 - [Gridsome Portfolio Story](https://gridsome-portfolio-story.netlify.app) is a gridsome starter for designers and developers by[Edmund Ekott](https://timfon.dev).    [(repo)](https://github.com/Edmund1645/gridsome-portfolio-story)
   - Includes: Tag support, CSS Preprocessing with SCSS, Dark mode, Markdown for content, Netlify CMS preset with Netlify Identity for login
 
+- [Gridsome Starter Blog](https://gridsome-starter-blog.netlify.app) is simple, minimalistic starter for Gridsome that uses Markdown for content by [Gridsome](https://gridsome.org).    [(repo)](https://github.com/gridsome/gridsome-starter-blog)
+  - Includes: Beautiful and simple design, Markdown for content, Tags support, Dark / Light toggle,CSS variables, SCSS & BEM for styling.
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
