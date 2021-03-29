@@ -35,6 +35,9 @@
   
 
 - [Next Netlify Blog Starter](https://next-netlify-blog-starter.netlify.app) - A lightweight markdown blog starter with Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-blog-starter)
+
+
+- [Next Netlify Portfolio Starter](https://next-portfolio-starter.netlify.app) - A personal portfolio project starter using Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-portfolio-starter)
   
 
 - [Next Advanced Starter](https://nextjs-advanced-starter.vercel.app) - An opinionated starter skeleton with advanced features for Next.js by [Alex](https://gogl.io).  Github  [(repo)](https://github.com/agcty/nextjs-advanced-starter)
