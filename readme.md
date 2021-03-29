@@ -33,9 +33,13 @@
 
 ### NextJs
 
-- [Personal Website Next Chakra](https://github.com/bjcarlson42/personal-website-nextjs-chakra) - This is a great portfolio starter using NextJs and Chakra with dark mode by [Benjamin Carlson](https://benjamincarlson.io).  Github [(repo)](https://github.com/bjcarlson42/personal-website-nextjs-chakra)
+- ⚡️[Personal Website Next Chakra](https://github.com/bjcarlson42/personal-website-nextjs-chakra) - This is a great portfolio starter using NextJs and Chakra with dark mode by [Benjamin Carlson](https://benjamincarlson.io).  Github [(repo)](https://github.com/bjcarlson42/personal-website-nextjs-chakra)
 
-- [Next Tailwind Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app) - This is a Next.js, Tailwind CSS blogging starter template by [Timothy](https://www.timlrx.com).  Github [(repo)](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+
+- ⚡️[Next Typescript Starter](https://nextjs-starter-ts.vercel.app) - TypeScript starter for Next.js that includes all you need to build amazing apps by [João Pedro Schmitz](https://joaopedro.dev).  Github [(repo)](https://github.com/jpedroschmitz/typescript-nextjs-starter)
+
+
+- ⚡️[Next Tailwind Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app) - This is a Next.js, Tailwind CSS blogging starter template by [Timothy](https://www.timlrx.com).  Github [(repo)](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
 
 - [Next Netlify Starter](https://next-starter.netlify.app) - is a one-click starter project for Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-starter)
@@ -75,6 +79,7 @@
   
 
 - [Gatsby Serif Theme](https://gatsby-serif.netlify.app) - Serif is a beautiful small business theme for Gatsby by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/gatsby-serif-theme)
+
 
 - [Gatsby Tailwind Serif](https://gatsby-tailwind-serif.netlify.app) - A Gatsby theme based on gatsby-serif-theme, with Tailwind CSS by [windedge](https://github.com/windedge).  Github [(repo)](https://github.com/windedge/gatsby-tailwind-serif)
 
@@ -151,7 +156,7 @@
 
 ### Photography
 
-- [Carlsons Photography](https://bjcarlson42.github.io/carlson-photography/index.html) - One of my favorite templates to display your photos, built with image fades, image navigation and more, by [Benjamin Carlson](https://benjamincarlson.io).  [(repo)](https://github.com/bjcarlson42/carlson-photography)
+- ⚡️[Carlsons Photography](https://bjcarlson42.github.io/carlson-photography/index.html) - One of my favorite templates to display your photos, built with image fades, image navigation and more, by [Benjamin Carlson](https://benjamincarlson.io).  [(repo)](https://github.com/bjcarlson42/carlson-photography)
 
 ------------------
 [(Table of Contents)](#table-of-contents)
