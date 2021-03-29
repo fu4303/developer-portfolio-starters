@@ -42,6 +42,9 @@
 
 
 - [Next Netlify Blog Template](https://nextjs-netlify-blog-template.netlify.app) - Next.js blogging template for Netlify is a boilerplate for building blogs with only Netlify stacks with typescript, mdx by [Takahiro Fujiwara](https://github.com/wutali).  Github [(repo)](https://github.com/wutali/nextjs-netlify-blog-template)
+
+
+- [Jamstack Ecommerce](https://www.jamstackecommerce.dev) - A starter project for building performant ECommerce applications with Next.js and React by [JAMstack CMS](https://github.com/jamstack-cms).  Github [(repo)](https://github.com/jamstack-cms/jamstack-ecommerce)
   
 
 - [Next Advanced Starter](https://nextjs-advanced-starter.vercel.app) - An opinionated starter skeleton with advanced features for Next.js by [Alex](https://gogl.io).  Github  [(repo)](https://github.com/agcty/nextjs-advanced-starter)
