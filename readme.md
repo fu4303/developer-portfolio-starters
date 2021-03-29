@@ -30,16 +30,16 @@
   - Includes: Markdown support for blog articles, great color
 
 - [Gridsome Casper Starter](https://casper.jammeryhq.com) is a gridsome starter based on the Casper theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-casper-v3)
-  - Includes: Built with Tailwind CSS, Responsive, Blog, Author pages, Tags, Categories, Dynamic custom pages, Pagination
+  - Includes: Tailwind CSS, Responsive, Blog, Author pages, Tags, Categories, Dynamic custom pages, Pagination
 
 - [Gridsome Skeleventy Starter](https://skeleventy.jammeryhq.com) is a gridsome starter based on the Skeleventy theme for 11ty by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-skeleventy)
-  - Includes: Built with Tailwind CSS, Responsive, Pagination
+  - Includes: Tailwind CSS, Responsive, Pagination
 
 - [Gridsome Liebling Starter](https://liebling.jammeryhq.com) is a gridsome starter based on the liebling theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-liebling)
-  - Includes: Built with Tailwind CSS, Responsive, Tags, Categories, Dynamic custom pages, Pagination, Search support, Dark mode
+  - Includes: Tailwind CSS, Responsive, Tags, Categories, Dynamic custom pages, Pagination, Search support, Dark mode
 
-- [Gridsome Portfolio Story](https://gridsome-portfolio-story.netlify.app) is a starter for Gridsome for designers and developers to tell stories about their work by[Edmund Ekott](https://timfon.dev).    [(repo)](https://github.com/Edmund1645/gridsome-portfolio-story)
-  - Includes: Tag support, CSS Preprocessing with SCSS, Dark mode by default, Markdown for content, Netlify CMS preset with Netlify Identity for login
+- [Gridsome Portfolio Story](https://gridsome-portfolio-story.netlify.app) is a gridsome starter for designers and developers by[Edmund Ekott](https://timfon.dev).    [(repo)](https://github.com/Edmund1645/gridsome-portfolio-story)
+  - Includes: Tag support, CSS Preprocessing with SCSS, Dark mode, Markdown for content, Netlify CMS preset with Netlify Identity for login
 
 ------------------
 [(Table of Contents)](#table-of-contents)
