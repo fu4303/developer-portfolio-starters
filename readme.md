@@ -48,6 +48,11 @@
 - [Gatsby Starter Delog](https://delog-w3layouts.netlify.app) - is starter blog for designers and developer, built with Gatsby and Netlfiy CMS by [W3Layouts](https://github.com/W3Layouts).  GitHub [(repo)](https://github.com/W3Layouts/gatsby-starter-delog)
   - Includes:  Built with GatsbyJS and Netlify CMS, Dark mode support, SEO friendly
 
+- [Gatsby Typescript Tailwind](https://gatsby-typescript-tailwind.netlify.app) - is a gatsby starter using typescript and tailwindcss by [Florentin](https://ecklf.com).  Github [(repo)](https://github.com/impulse/gatsby-typescript-tailwind)
+  - Includes: Tailwindcss, Typescript, Gatsby
+
+
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
