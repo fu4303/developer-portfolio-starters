@@ -9,6 +9,7 @@
 - [Hugo](#hugo)
 - [Gridsome](#gridsome)
 - [Nuxt](#nuxt)
+- [Vite](#vite)
 
 ### 11ty
 
@@ -117,7 +118,7 @@
   - Includes: Tag support, CSS Preprocessing with SCSS, Dark mode, Markdown for content, Netlify CMS preset with Netlify Identity for login
 
 - [Gridsome Starter Blog](https://gridsome-starter-blog.netlify.app) is a simple, minimalistic starter for Gridsome that uses Markdown for content by [Gridsome](https://gridsome.org).    [(repo)](https://github.com/gridsome/gridsome-starter-blog)
-  - Includes: Beautiful and simple design, Markdown for content, Tags support, Dark / Light toggle,CSS variables, SCSS & BEM for styling.
+
 
 ------------------
 [(Table of Contents)](#table-of-contents)
@@ -125,7 +126,16 @@
 ### Nuxt
 
 - [Nuxt Portfolio Starter](https://nuxt-portfolio-starter.netlify.app) - is simple portfolio starter theme for Nuxt.js static sites by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/nuxt-portfolio-starter)
-  - Includes: Tailwindcss, pagination, scroll, and theme switcher with dark mode
+
 
 ------------------
 [(Table of Contents)](#table-of-contents)
+
+
+### Vite
+
+- [Vite Tailwind Starter](https://vite-tailwind.esm.dev) - Starter using Vite + Tailwind for super fast prototyping by [Eduardo San Martin Morote](https://esm.dev).  Github [(repo)](https://github.com/posva/vite-tailwind-starter)
+
+------------------
+[(Table of Contents)](#table-of-contents)
+
