@@ -35,6 +35,9 @@
 - [Gridsome Skeleventy Starter](https://skeleventy.jammeryhq.com) is a gridsome starter based on the Skeleventy theme for 11ty by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-skeleventy)
   - Includes: Built with Tailwind CSS, Responsive, Pagination
 
+- [Gridsome Liebling Starter](https://liebling.jammeryhq.com) is a gridsome starter based on the liebling theme for Ghost by [JammeryHQ](https://jammeryhq.com).   [(repo)](https://github.com/jammeryhq/gridsome-starter-liebling)
+  - Includes: Built with Tailwind CSS, Responsive, Tags, Categories, Dynamic custom pages, Pagination, Search support, Dark mode
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
