@@ -8,10 +8,10 @@
 
 ### 11ty
 
-- [pack11ty](https://pack11ty.dev) is an heavily opinionated Eleventy template project created by [Nicolas Hoizey](https://nicolas-hoizey.com). [(repo)](https://github.com/nhoizey/pack11ty)
+- [pack11ty](https://pack11ty.dev) - is an heavily opinionated Eleventy template project created by [Nicolas Hoizey](https://nicolas-hoizey.com). [(repo)](https://github.com/nhoizey/pack11ty)
   - Includes: Responsive layout, resposive images, enhanced markdown and deploys with netlify
 
-- [eleventastic](https://eleventastic.netlify.app) is a simple Eleventy starter kit by [Max Bock](https://mxb.dev). [(repo)](https://github.com/maxboeck/eleventastic)
+- [eleventastic](https://eleventastic.netlify.app) - is a simple Eleventy starter kit by [Max Bock](https://mxb.dev). [(repo)](https://github.com/maxboeck/eleventastic)
   - Includes: CSS pipeline, JS bundling, HTML minification, SVG generation
 
 ------------------
@@ -20,7 +20,7 @@
 
 ### Gridsome
 
-- [Gridsome Portfolio Starter](https://gridsome-portfolio-starter.netlify.app) is simple portfolio starter theme for Gridsome by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/gridsome-portfolio-starter)
+- [Gridsome Portfolio Starter](https://gridsome-portfolio-starter.netlify.app) - is simple portfolio starter theme for Gridsome by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/gridsome-portfolio-starter)
   - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
 
 ------------------
@@ -28,8 +28,8 @@
 
 ### Nuxt
 
-- [Nuxt Portfolio Starter](https://nuxt-portfolio-starter.netlify.app) is simple portfolio starter theme for Nuxt.js static sites by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/nuxt-portfolio-starter)
- - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
+- [Nuxt Portfolio Starter](https://nuxt-portfolio-starter.netlify.app) - is simple portfolio starter theme for Nuxt.js static sites by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/nuxt-portfolio-starter)
+  - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
 
 ------------------
 [(Table of Contents)](#table-of-contents)
