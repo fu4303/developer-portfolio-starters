@@ -20,11 +20,14 @@
 
 ### Gridsome
 
-- [Gridsome and Markdown Starter Kit](https://gridsome-and-markdown-starter-kit.netlify.app) - is a great gridsome starter kit by [Paul Ozyzniewski](https://www.paulthedeveloper.com). [(repo)](https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit)
+- [Gridsome and Markdown Starter Kit](https://gridsome-and-markdown-starter-kit.netlify.app) - is a great gridsome starter kit by [Paul Ozyzniewski](https://www.paulthedeveloper.com).   [(repo)](https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit)
   - Includes: Fluid typography, great page transitions, background images, global metadata, svg components
 
-- [Gridsome Portfolio Starter](https://gridsome-portfolio-starter.netlify.app) - is simple portfolio starter theme for Gridsome by [Andre Madarang](https://andremadarang.com). [(repo)](https://github.com/drehimself/gridsome-portfolio-starter)
+- [Gridsome Portfolio Starter](https://gridsome-portfolio-starter.netlify.app) - is simple portfolio starter theme for Gridsome by [Andre Madarang](https://andremadarang.com).   [(repo)](https://github.com/drehimself/gridsome-portfolio-starter)
   - Includes: Tailwindcss, blog posts with tag support, pagination, scroll, and theme switcher with dark mode
+
+- [Gridsome Minimal Blog](https://gridsome-blog-telerik.netlify.app) is a very minimal blog starter using gridsome by [Gift Egwuenu](https://www.giftegwuenu.dev).    [(repo)](https://github.com/lauragift21/gridsome-minimal-blog)
+  - Includes: Markdown support for blog articles, great color
 
 ------------------
 [(Table of Contents)](#table-of-contents)
