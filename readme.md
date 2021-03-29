@@ -11,6 +11,10 @@
 - [Nuxt](#nuxt)
 - [Vite](#vite)
 - [Photography](#photography)
+- [Developer Portfolios](#developer-portfolios)
+
+
+
 
 ### 11ty
 
@@ -160,4 +164,9 @@
 
 ------------------
 [(Table of Contents)](#table-of-contents)
+
+
+### Developer Portfolios
+
+
 
