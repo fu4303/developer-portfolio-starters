@@ -4,6 +4,7 @@
 
 - [11ty](#11ty)
 - [NextJs](#nextjs)
+- [GatsbyJs](#gatsby)
 - [Gridsome](#gridsome)
 - [Nuxt](#nuxt)
 
@@ -26,6 +27,16 @@
 
 ------------------
 [(Table of Contents)](#table-of-contents)
+
+
+### Gatsby
+
+- [Gatsby Starter Delog](https://delog-w3layouts.netlify.app) - is starter blog for designers and developer, built with Gatsby and Netlfiy CMS by [W3Layouts](https://github.com/W3Layouts).  GitHub [(repo)](https://github.com/W3Layouts/gatsby-starter-delog)
+  - Includes:  Built with GatsbyJS and Netlify CMS, Dark mode support, SEO friendly
+
+------------------
+[(Table of Contents)](#table-of-contents)
+
 
 
 ### Gridsome
