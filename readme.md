@@ -18,7 +18,34 @@
 
 ### 11ty
 
+- ⚡️[Neat Starter](https://neat-starter.netlify.app) - Starter Template for Netlify CMS, Eleventy, Alphine JS & Tailwind CSS by [Surjith S M](https://surjithctly.in).  Github [(repo)](https://github.com/surjithctly/neat-starter)
+
+
+- ⚡️[Eleventy Base Blog](https://eleventy-base-blog.netlify.app) - A starter repository for a blog web site using the Eleventy static site generator with tag support by [11ty](11ty.dev).  Github [(repo)](https://github.com/11ty/eleventy-base-blog)
+
+
+- ⚡️[Eleventy Base](https://11ty-base.netlify.app) - An Eleventy starter based on Eleventy Base Blog adding Sass, custom webfonts, and JavaScript bundling with Parcel with tag support by [Brittany Chiang](https://brittanychiang.com)
+
+
+- ⚡️[Eleventy Garden](https://eleventy-garden.netlify.app) - A starter site for building a mind garden, using 11ty by [Binyamin Aron Green](https://binyam.in).  Github [(repo)](https://github.com/binyamin/eleventy-garden)
+
+
+- [Eleventy Photo Gallery](https://eleventy-gallery.netlify.app) - A starter site for creating a responsive image gallery using the Eleventy static site generator by [Tanner Dolby](https://tannerdolby.com).  Github [(repo)](https://github.com/tannerdolby/eleventy-photo-gallery)
+
+
+- [Sample 11ty Blog](https://sample11tyblog.netlify.app) - Sample Eleventy (11ty) blog as example for workshops with great image display on homepage in card format by [Jérôme Coupé](https://www.webstoemp.com).  Github [(repo)](https://github.com/jeromecoupe/sample-11ty-blog)
+
+
 - [Minimal 11ty Tailwind Starter](https://clever-newton-cbb08a.netlify.app) - A very minimal eleventy starter using Tailwind CSS for styling.  It features a smart navigation component that sets active states automatically by [Tom Reinert](https://github.com/tomreinert).  Github [(repo)](https://github.com/tomreinert/minimal-11ty-tailwind-starter)
+
+
+- [Tea Stack](https://github.com/mattwaler/tea-stack) - A starter template for the TEA stack (Tailwind, Eleventy, Alpine). Now with Turbolinks! by [Matt Waler](https://mattwaler.com).  Github [(repo)](https://github.com/mattwaler/tea-stack)
+
+
+- [Eleventy Netlify Boilerplate](https://eleventy-netlify-boilerplate.netlify.app) - A template for building a simple website with the Eleventy static site generator with tag support by [Dan Urbanowicz](https://www.danurbanowicz.com).  Github [(repo)](https://github.com/danurbanowicz/eleventy-netlify-boilerplate)
+
+
+- [Eleventy Duo](https://eleventyduo.netlify.app) - Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs with article tag support, by [Yinka Adedire](https://yinkaadedire.netlify.app).  Github [(repo)](https://github.com/yinkakun/eleventy-duo)
 
 
 - [eleventail](https://eleventail.netlify.app) - A running start for JAMstack projects with Eleventy, TailwindCSS and some Netlify goodies by [Phil Hawksworth](https://www.hawksworx.com).  Github [(repo)](https://github.com/philhawksworth/eleventail)
@@ -76,6 +103,9 @@
 
 
 ### Gatsby
+
+- [Gatsby Digital Garden](https://mathieudutour.github.io/gatsby-digital-garden/) - 🌷 🌻 🌺 Create a digital garden with Gatsby by [Mathieu Dutour](https://mathieu.dutour.me).  Github [(repo)](https://github.com/mathieudutour/gatsby-digital-garden/)
+
 
 - [Gatsby Md Ts Personal Website](https://gatsby-markdown-typescript-personal-website.netlify.app) - is a personal website / blog using Gatsby, Md, Typescript, Styled Components, Tailwind CSS, Framer Motion & React Font Awesome by [SaimirKapaj](https://github.com/SaimirKapaj).  Github [(repo)](https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website)
 
@@ -164,6 +194,12 @@
 ### Photography
 
 - ⚡️[Carlsons Photography](https://bjcarlson42.github.io/carlson-photography/index.html) - One of my favorite templates to display your photos, built with image fades, image navigation and more, by [Benjamin Carlson](https://benjamincarlson.io).  [(repo)](https://github.com/bjcarlson42/carlson-photography)
+
+
+- ⚡️[Photography](https://photography.rampatra.com) - A jekyll website for photographers with great display of images on homepage by [Ram](https://blog.rampatra.com).  Github [(repo)](https://github.com/rampatra/photography)
+
+
+- [Blaqie Photography](https://blaqiephotography.netlify.app) - A Photographer Portfolio Gatsby website by [Yinka Adedire](https://yinkaadedire.netlify.app).  Github [(repo)](https://github.com/yinkakun/blaqie-photography)
 
 ------------------
 [(Table of Contents)](#table-of-contents)
