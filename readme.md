@@ -76,7 +76,7 @@
 - ⚡️[Next Tailwind Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app) - This is a Next.js, Tailwind CSS blogging starter template by [Timothy](https://www.timlrx.com).  Github [(repo)](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
 
-- ⚡️[Next Starter + Authentication](https://next-starter.bhanuteja.dev) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB by [Bhanu Teja Pachipulusu](https://github.com/pbteja1998).  Github [(repo)](https://github.com/pbteja1998/nextjs-starter)
+- ⚡️[Next Starter + Authentication](https://next-starter.bhanuteja.dev) - A starter project for next js with authentication - Contains React 17, Typescript, Tailwind CSS 2, React Query 3, GitHub Auth, LinkedIn Auth, Password-less Auth, Fauna DB by [Bhanu Teja Pachipulusu](https://github.com/pbteja1998).  Github [(repo)](https://github.com/pbteja1998/nextjs-starter)
 
 
 - [Next Netlify Starter](https://next-starter.netlify.app) - is a one-click starter project for Next and Netlify by [Cassidy Williams](https://cassidoo.co).  Github  [(repo)](https://github.com/cassidoo/next-netlify-starter)
