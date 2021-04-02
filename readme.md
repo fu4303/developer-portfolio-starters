@@ -135,6 +135,11 @@
 
 - [Jekyll Serif Theme](https://jekyll-serif.netlify.app) - Serif is a beautiful business theme for Jekyll by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
+
+- [Plainwhite Jekyll](https://samarsault.com) - A configurable portfolio-style jekyll theme for writers by [Samarjeet](https://samarsault.com).  Github [(repo)](https://github.com/samarsault/plainwhite-jekyll)
+
+
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
