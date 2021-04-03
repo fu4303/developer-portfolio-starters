@@ -107,6 +107,10 @@
 
 ### Gatsby
 
+
+- [Gatsby Glass](https://gatsbyglass.netlify.app) - A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI by [Yinka Adedire](https://yinkaadedire.netlify.app).  Github [(repo)](https://github.com/yinkakun/gatsby-starter-glass)
+
+
 - [Gatsby Digital Garden](https://mathieudutour.github.io/gatsby-digital-garden/) - 🌷 🌻 🌺 Create a digital garden with Gatsby by [Mathieu Dutour](https://mathieu.dutour.me).  Github [(repo)](https://github.com/mathieudutour/gatsby-digital-garden/)
 
 
