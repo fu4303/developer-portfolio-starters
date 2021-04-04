@@ -30,6 +30,9 @@
 - ⚡️[Eleventy Garden](https://eleventy-garden.netlify.app) - A starter site for building a mind garden, using 11ty by [Binyamin Aron Green](https://binyam.in).  Github [(repo)](https://github.com/binyamin/eleventy-garden)
 
 
+- ⚡️[Vredeburg](https://vredeburg.netlify.app) - A simple starter project to create a blog using Eleventy and Tailwind CSS with tag support and display of cards by [Dafiul Haq](https://github.com/dafiulh).  Github [(repo)](https://github.com/dafiulh/vredeburg)
+
+
 - [Eleventy Photo Gallery](https://eleventy-gallery.netlify.app) - A starter site for creating a responsive image gallery using the Eleventy static site generator by [Tanner Dolby](https://tannerdolby.com).  Github [(repo)](https://github.com/tannerdolby/eleventy-photo-gallery)
 
 
