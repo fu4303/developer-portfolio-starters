@@ -220,4 +220,9 @@
 ### Developer Portfolios
 
 
+[React Tailwind Portfolio](https://braydentw.github.io/react-tailwind-portfolio/) - 👨‍🎨 An open-source portfolio template built with React and Tailwind by [Brayden W](https://braydentw.github.io).  Github [(repo)](https://github.com/BraydenTW/react-tailwind-portfolio)
+
+
+------------------
+[(Table of Contents)](#table-of-contents)
 
