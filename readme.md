@@ -134,6 +134,9 @@
 - [Gatsby Typescript Tailwind](https://gatsby-typescript-tailwind.netlify.app) - is a gatsby starter using typescript and tailwindcss by [Florentin](https://ecklf.com).  Github [(repo)](https://github.com/impulse/gatsby-typescript-tailwind)
 
 
+- [Gatsby Tailwind Simplicity Itself](https://simplicity-itself.planflow.dev) - is a Simple, Free Gatsby/TailwindCSS Starter Theme For Business Websites having to do with farming by [PlanFlow](https://planflow.dev).  Github [(repo)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme)
+
+
 ------------------
 [(Table of Contents)](#table-of-contents)
 
