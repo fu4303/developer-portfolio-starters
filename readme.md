@@ -3,13 +3,29 @@
 ## Table of Contents
 
 - [11ty](#11ty)
+  - Eleventy is a simpler static site generator.  Eleventy was created to be a JavaScript alternative to Jekyll. It’s zero-config by default but has flexible configuration options. Eleventy works with your project’s existing directory structure.
+  - Homepage for [Eleventy](https://www.11ty.dev)  -  GitHub for [Eleventy](https://github.com/11ty)
 - [NextJs](#nextjs)
+  - Next.js is The React Framework for Production.  Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+  - Homepage for [Next.js](https://nextjs.org)  -  GitHub for [Next.js](https://github.com/vercel)
 - [GatsbyJs](#gatsby)
+  - GatsbyJs is The fastest frontend for the modern web.  With Gatsby 3.0, create lightning-fast web experiences that integrate your favorite services and content. Build e-commerce sites, landing pages, blogs and more in minutes.
+  - Homepage for [GatsbyJs](https://www.gatsbyjs.com)  -  GitHub for [GatsbyJs](https://github.com/gatsbyjs)
 - [Jekyll](#jekyll)
+  - Jekyll will transform your plain text into static websites and blogs.  Jekyll is a static site generator, Jekyll is a blog-aware, static site generator in Ruby.  It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+  - Homepage for [Jekyll](https://jekyllrb.com)  -  GitHub for [Jekyll](https://github.com/jekyll)
 - [Hugo](#hugo)
+  - Hugo is the world’s fastest framework for building websites.  Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.  A Fast and Flexible Static Site Generator built with love in GoLang.
+  - Homepage for [Hugo](https://gohugo.io)  -  GitHub for [Hugo](https://github.com/gohugoio)
 - [Gridsome](#gridsome)
+  - Gridsome is a jamstack framework for Vue.js.  Gridsome makes it easy for developers to build static generated websites & apps that are fast by default 🚀.  
+  - Homepage for [Gridsome](https://gridsome.org)  -  GitHub for [Gridsome](https://github.com/gridsome)
 - [Nuxt](#nuxt)
+  - Nuxt is The Intuitive Vue Framework.  Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful.
+  - Homepage for [Nuxt](https://nuxtjs.org)  -  GitHub for [Nuxt](https://github.com/nuxt)
 - [Vite](#vite)
+  - Vite is Next Generation Frontend Tooling.  Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
+  - Homepage for [Vite](https://vitejs.dev)  -  GitHub for [Vite](https://github.com/vitejs)
 - [Photography](#photography)
 - [Developer Portfolios](#developer-portfolios)
 
