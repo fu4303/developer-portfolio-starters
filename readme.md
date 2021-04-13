@@ -143,6 +143,8 @@
 
 ### Jekyll
 
+- [Beautiful Jekyll](https://beautifuljekyll.com) - Beautiful Jekyll is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites by [Dean Attali](https://deanattali.com).  Github [(repo)](https://github.com/daattali/beautiful-jekyll)
+
 - [Jekyll Serif Theme](https://jekyll-serif.netlify.app) - Serif is a beautiful business theme for Jekyll by [Zerostatic](https://www.zerostatic.io).  Github [(repo)](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
 
