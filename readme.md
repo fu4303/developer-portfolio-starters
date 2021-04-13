@@ -119,6 +119,10 @@
   - GitHub [(repo)](https://github.com/pbteja1998/nextjs-starter)
 
 
+- [Next Starter Tailwind](https://next-starter-tailwind.taylorbryant.dev) - A Next starter styled using Tailwind CSS, a utility-first CSS framework.  Uses Tailwind CSS' built-in purge option to remove unused CSS.  Illustrations by unDraw. by [Taylor Bryant](https://taylorbryant.dev).
+  - GitHub [(repo)](https://github.com/taylorbryant/next-starter-tailwind)
+
+
 - [Next Netlify Starter](https://next-starter.netlify.app) - is a one-click starter project for Next and Netlify by [Cassidy Williams](https://cassidoo.co).  
   - GitHub  [(repo)](https://github.com/cassidoo/next-netlify-starter)
   
