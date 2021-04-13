@@ -27,7 +27,9 @@
   - Vite is Next Generation Frontend Tooling.  Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
   - Homepage for [Vite](https://vitejs.dev)  -  GitHub for [Vite](https://github.com/vitejs)
 - [Photography](#photography)
+  - These are just starters or templates for photography or heavily themed on displaying photos.
 - [Developer Portfolios](#developer-portfolios)
+  - Simple starters or templates of developer portfolios.
 
 
 
