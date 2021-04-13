@@ -155,6 +155,10 @@
 ### Gatsby
 
 
+- [Gatsby Starter Tailwind](https://gatsby-starter-tailwind.taylorbryant.dev) - A Gatsby starter styled using Tailwind CSS, a utility-first CSS framework.  Uses Tailwind CSS' built-in purge option to remove unused CSS.  Illustrations by unDraw. by [Taylor Bryant](https://taylorbryant.dev).
+  - GitHub [(repo)](https://github.com/taylorbryant/gatsby-starter-tailwind)
+
+
 - [Gatsby Glass](https://gatsbyglass.netlify.app) - A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI by [Yinka Adedire](https://yinkaadedire.netlify.app).  
   - GitHub [(repo)](https://github.com/yinkakun/gatsby-starter-glass)
 
@@ -165,6 +169,7 @@
 
 - [Gatsby Md Ts Personal Website](https://gatsby-markdown-typescript-personal-website.netlify.app) - is a personal website / blog using Gatsby, Md, Typescript, Styled Components, Tailwind CSS, Framer Motion & React Font Awesome by [SaimirKapaj](https://github.com/SaimirKapaj).  
   - GitHub [(repo)](https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website)
+
 
 - [Gatsby Md Personal Website](https://gatsby-markdown-personal-website.netlify.app) - is a personal website / blog using Gatsby, Md, Styled Components, Tailwind CSS, Framer Motion & React Font Awesome by [SaimirKapaj](https://github.com/SaimirKapaj).  
   - GitHub [(repo)](https://github.com/SaimirKapaj/gatsby-markdown-personal-website)
