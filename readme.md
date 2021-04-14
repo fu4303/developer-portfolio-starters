@@ -103,6 +103,11 @@
 
 ### NextJs
 
+
+- ⚡️[Blog With Next.js and Typescript](https://blog-with-nextjs-example.vercel.app) - This is a really simple project that shows the usage of Next.js with TypeScript by [Leonardo Maldonado](https://leonardomso.com)
+  - GitHub [(repo)](https://github.com/leonardomso/blog-with-nextjs)
+
+
 - ⚡️[Personal Website Next Chakra](https://github.com/bjcarlson42/personal-website-nextjs-chakra) - This is a great portfolio starter using NextJs and Chakra with dark mode by [Benjamin Carlson](https://benjamincarlson.io).  
   - GitHub [(repo)](https://github.com/bjcarlson42/personal-website-nextjs-chakra)
 
