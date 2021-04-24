@@ -284,6 +284,9 @@
 - [Nuxt Portfolio Starter](https://nuxt-portfolio-starter.netlify.app) - is simple portfolio starter theme for Nuxt.js static sites by [Andre Madarang](https://andremadarang.com). 
   - GitHub [(repo)](https://github.com/drehimself/nuxt-portfolio-starter)
 
+- [JAMstack Ecommerce Site](https://ecommerce-netlify.netlify.app) - is a JAMstack Ecommerce Site built with Nuxt and Netlify Functions as well as serverless function to process stripe payments by [Sarah Drasner](https://sarah.dev).  
+  - GitHub [(repo)](https://github.com/sdras/ecommerce-netlify)
+
 
 ------------------
 [(Table of Contents)](#table-of-contents)
